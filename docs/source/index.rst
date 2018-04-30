@@ -12,9 +12,9 @@ Contents
 .. toctree::
    :maxdepth: 2
    :glob:
-
-index
-contact
+   
+   index
+   contact
 
 Who should I contact
 -------------------
