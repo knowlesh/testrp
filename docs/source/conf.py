@@ -42,6 +42,9 @@ release = '0.1'
 # --HTML Theme ---------------------------------------------------------------
 
 html_theme = "classic"
+html_theme_options = {"relbarbgcolor": "red"}
+
+
 extensions = [
 ]
 
